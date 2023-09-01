@@ -3,3 +3,6 @@ My favorite food is frijol con puerco.
 I don't have any pets.
 During my free time I like reading economics-related books.
 My favorite place to visit on vacations is Cozumel, QRoo, Mexico.
+
+# This is experimental
+I am about to start a scuba diving certification.
